@@ -7,12 +7,13 @@
 
 可爱的 メンヘラちゃん
 
-图片来源：
-https://tieba.baidu.com/p/5620690673?see_lz=1
 
+![这个应该是最全的版本, 共120个 from_tieba_yun_baidu/](from_tieba_yun_baidu/)
 
 ![Menhera-chan.gif](Menhera-chan.gif)
 
+#####这张GIF 图来源：
+https://tieba.baidu.com/p/5635044124
 
 #### 如果本仓库涉及侵权请联系我删除
 
