@@ -9,6 +9,13 @@
 
 http://dq.tieba.com/p/5634119502
 
+
 ![](6fecfcf2b21193137f5d82cd69380cd790238de4.gif)
 
 http://tieba.baidu.com/p/5626447621
+
+
+![](from_twitter_luoye96.jpg)
+
+https://twitter.com/luoye96/status/986953597412786177
+
