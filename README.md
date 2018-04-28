@@ -30,7 +30,7 @@ https://tieba.baidu.com/p/5635044124
 | `Menhera-chan.`           | メンヘラちゃん。      |  ~~Menhera-chan.~~           | Menhera-chan.                |
 | `Menhera-chan.2`          | メンヘラちゃん。２    |  ~~Menhera-chan.2~~          | Menhera-chan.2               |
 | `Menhera little girl.`    | メンヘラ少女。        |  ~~Menhera little girl.~~    | Menhera little girl.         |
-| `Menhera little girl. 2`  | ~~メンヘラ少女。２~~  |  ~~Menhera little girl. 2~~  | ~~Menhera little girl. 2~~   |
+| `Menhera little girl. 2`  | ~~メンヘラ少女。２~~  |  ~~Menhera little girl. 2~~  | Menhera little girl. 2       |
 
 ##### Telegram 表情贴图
 
@@ -40,6 +40,7 @@ https://t.me/addstickers/LINE_Menhera_chan
 
 ##### English
 https://t.me/addstickers/LINE_Menhera_chan_ENG
+
 https://t.me/addstickers/LINE_Menhera_little_girl_ENG
 
 

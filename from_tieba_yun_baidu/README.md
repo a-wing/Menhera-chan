@@ -12,3 +12,8 @@ https://tieba.baidu.com/p/5625119614
 >
 > PS.1,第53张因为字体不符合,所以做了两张图.2,因为表情包里的大部分都是拟声词,有些中文无法表达我使用了相近的词语替代了.3.第29张中的那个字是mu(其实是因为没有中文对应汉字,PS了一个,唉嘿).
 
+
+> 新增加了40张, menhera_little_girl_2_Neil.M 汉化是另外一个dalao做的
+>
+> 链接: https://pan.baidu.com/s/11fUb9iIjSjehI-MFCAeWTA 密码: etpw
+
