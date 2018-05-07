@@ -25,12 +25,12 @@ https://tieba.baidu.com/p/5635044124
 > 删除了 from_tieba 和from_telegram_asteria.s-daily 文件夹（都是重复的，留一个最好的版本就够了）
 
 ##### 目前本仓库已有版本
-| Name                      | Japanese              | English                      | Chinese                      |
-| ------------------------- | --------------------- | ---------------------------- | ---------------------------- |
-| `Menhera-chan.`           | メンヘラちゃん。      |  ~~Menhera-chan.~~           | Menhera-chan.                |
-| `Menhera-chan.2`          | メンヘラちゃん。２    |  ~~Menhera-chan.2~~          | Menhera-chan.2               |
-| `Menhera little girl.`    | メンヘラ少女。        |  ~~Menhera little girl.~~    | Menhera little girl.         |
-| `Menhera little girl. 2`  | ~~メンヘラ少女。２~~  |  ~~Menhera little girl. 2~~  | Menhera little girl. 2       |
+| Name                      | Japanese              | English                  | Chinese                      |
+| ------------------------- | --------------------- | ------------------------ | ---------------------------- |
+| `Menhera-chan.`           | メンヘラちゃん。      |  Menhera-chan.           | Menhera-chan.                |
+| `Menhera-chan.2`          | メンヘラちゃん。２    |  Menhera-chan.2          | Menhera-chan.2               |
+| `Menhera little girl.`    | メンヘラ少女。        |  Menhera little girl.    | Menhera little girl.         |
+| `Menhera little girl. 2`  | ~~メンヘラ少女。２~~  |  Menhera little girl. 2  | Menhera little girl. 2       |
 
 ##### Telegram 表情贴图
 
@@ -64,7 +64,8 @@ https://twitter.com/pomujoynet1
 ![Author_twitter.jpg](Author_twitter.jpg)
 
 #### Todo
-- [ ] 收集英文版Menhera-chan
+- [x] 收集英文版Menhera-chan
+- [ ] 英文版Menhera-chan，清晰度比较低，需要高清的
 
 #### Note
 - If this warehouse involves infringement please contact me to delete
