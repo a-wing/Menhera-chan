@@ -29,6 +29,7 @@ https://tieba.baidu.com/p/5635044124
 | ------------------------- | --------------------- | ------------------------ | ---------------------------- |
 | `Menhera-chan.`           | メンヘラちゃん。      |  Menhera-chan.           | Menhera-chan.                |
 | `Menhera-chan.2`          | メンヘラちゃん。２    |  Menhera-chan.2          | Menhera-chan.2               |
+| `Menhera-chan.3`          | ~~メンヘラちゃん。３~~| ~~Menhera-chan.3~~       | ~~Menhera-chan.3~~           |
 | `Menhera little girl.`    | メンヘラ少女。        |  Menhera little girl.    | Menhera little girl.         |
 | `Menhera little girl. 2`  | ~~メンヘラ少女。２~~  |  Menhera little girl. 2  | Menhera little girl. 2       |
 
@@ -48,7 +49,7 @@ https://t.me/addstickers/LINE_Menhera_little_girl_ENG
 
 图片版权归原作者吧，那家伙叫啥来着？
 
-参照这里：
+参照萌娘百科：
 https://zh.moegirl.org/zh/Menhera-chan
 
 作者Twitter：
