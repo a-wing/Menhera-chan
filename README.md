@@ -19,6 +19,9 @@ https://tieba.baidu.com/p/5635044124
 > Menhera-chan. 是长发，Menhera little girl. 是短发
 >
 > 官方只有英文版和日文版
+> 
+>
+>以及来自Line Store的版本，已经分类过了
 
 [这个应该是网上流传的最全的版本, 共120个 from_tieba_yun_baidu/](from_tieba_yun_baidu/)
 
@@ -29,7 +32,7 @@ https://tieba.baidu.com/p/5635044124
 | ------------------------- | --------------------- | ------------------------ | ---------------------------- |
 | `Menhera-chan.`           | メンヘラちゃん。      |  Menhera-chan.           | Menhera-chan.                |
 | `Menhera-chan.2`          | メンヘラちゃん。２    |  Menhera-chan.2          | Menhera-chan.2               |
-| `Menhera-chan.3`          | ~~メンヘラちゃん。３~~| ~~Menhera-chan.3~~       | ~~Menhera-chan.3~~           |
+| `Menhera-chan.3`          | メンヘラちゃん。３| ~~Menhera-chan.3~~       | ~~Menhera-chan.3~~           |
 | `Menhera little girl.`    | メンヘラ少女。        |  Menhera little girl.    | Menhera little girl.         |
 | `Menhera little girl. 2`  | ~~メンヘラ少女。２~~  |  Menhera little girl. 2  | Menhera little girl. 2       |
 
