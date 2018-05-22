@@ -1,3 +1,3 @@
 #@ZYFDroid最近从line上扒下的表情包，放在这里
 
-<br>其中包含以前百度贴吧下载的图。有的图清晰度不够，用Waifu2x缩放了一下。
+<br>又重新统一下载了一遍，并按照Line Store里面的顺序分类好，并统一用PhotoZoomPro放大
