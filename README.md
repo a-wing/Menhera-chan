@@ -20,7 +20,7 @@ https://tieba.baidu.com/p/5635044124
 >
 > 官方只有英文版和日文版
 >
-[感谢 ZYFDroid 抓取的全部的日文版](from_ZYFDroid/)
+[感谢 ZYFDroid 抓取的全部的日文版和英文版](from_ZYFDroid/)
 
 [这个应该是网上流传的最全的版本, 共120个 from_tieba_yun_baidu/](from_tieba_yun_baidu/)
 
@@ -31,8 +31,8 @@ https://tieba.baidu.com/p/5635044124
 | ------------------------- | --------------------- | ------------------------ | ---------------------------- |
 | `Menhera-chan.`           | メンヘラちゃん。      |  Menhera-chan.           | Menhera-chan.                |
 | `Menhera-chan.2`          | メンヘラちゃん。２    |  Menhera-chan.2          | Menhera-chan.2               |
-| `Menhera-chan.3`          | メンヘラちゃん。３    | ~~Menhera-chan.3~~       | ~~Menhera-chan.3~~           |
-| `Menhera-chan.4`          | メンヘラちゃん。４    | ~~Menhera-chan.3~~       | ~~Menhera-chan.3~~           |
+| `Menhera-chan.3`          | メンヘラちゃん。３    |  Menhera-chan.3          | ~~Menhera-chan.3~~           |
+| `Menhera-chan.4`          | メンヘラちゃん。４    | ~~Menhera-chan.4~~       | ~~Menhera-chan.4~~           |
 | `Menhera little girl.`    | メンヘラ少女。        |  Menhera little girl.    | Menhera little girl.         |
 | `Menhera little girl. 2`  | メンヘラ少女。２      |  Menhera little girl. 2  | Menhera little girl. 2       |
 
