@@ -33,7 +33,7 @@ https://tieba.baidu.com/p/5635044124
 | `Menhera-chan.2`          | メンヘラちゃん。２    |  Menhera-chan.2          | Menhera-chan.2               |
 | `Menhera-chan.3`          | メンヘラちゃん。３    |  Menhera-chan.3          | ~~Menhera-chan.3~~           |
 | `Menhera-chan.4`          | メンヘラちゃん。４    |  Menhera-chan.4          | ~~Menhera-chan.4~~           |
-| `Menhera-chan.5`          | メンヘラちゃん。５    |  ~~Menhera-chan.5~~      | ~~Menhera-chan.5~~           |
+| `Menhera-chan.5`          | メンヘラちゃん。５    |  Menhera-chan.5          | ~~Menhera-chan.5~~           |
 | `Menhera little girl.`    | メンヘラ少女。        |  Menhera little girl.    | Menhera little girl.         |
 | `Menhera little girl. 2`  | メンヘラ少女。２      |  Menhera little girl. 2  | Menhera little girl. 2       |
 
