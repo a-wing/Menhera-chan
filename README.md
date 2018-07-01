@@ -31,9 +31,9 @@ https://tieba.baidu.com/p/5635044124
 | ------------------------- | --------------------- | ------------------------ | ---------------------------- |
 | `Menhera-chan.`           | メンヘラちゃん。      |  Menhera-chan.           | Menhera-chan.                |
 | `Menhera-chan.2`          | メンヘラちゃん。２    |  Menhera-chan.2          | Menhera-chan.2               |
-| `Menhera-chan.3`          | メンヘラちゃん。３    |  Menhera-chan.3          | ~~Menhera-chan.3~~           |
-| `Menhera-chan.4`          | メンヘラちゃん。４    |  Menhera-chan.4          | ~~Menhera-chan.4~~           |
-| `Menhera-chan.5`          | メンヘラちゃん。５    |  Menhera-chan.5          | ~~Menhera-chan.5~~           |
+| `Menhera-chan.3`          | メンヘラちゃん。３    |  Menhera-chan.3          | Menhera-chan.3           |
+| `Menhera-chan.4`          | メンヘラちゃん。４    |  Menhera-chan.4          | Menhera-chan.4           |
+| `Menhera-chan.5`          | メンヘラちゃん。５    |  Menhera-chan.5          | Menhera-chan.5           |
 | `Menhera little girl.`    | メンヘラ少女。        |  Menhera little girl.    | Menhera little girl.         |
 | `Menhera little girl. 2`  | メンヘラ少女。２      |  Menhera little girl. 2  | Menhera little girl. 2       |
 
@@ -66,13 +66,19 @@ https://twitter.com/pomujoynet1
 
 好在作者大大什么也没说。。。可能不会用github。 逃） 。
 
+ZYFDroid评论:这估计就是作者开b站帐号和微信公众号的原因
+
 ![Author_twitter.jpg](Author_twitter.jpg)
+
+官方已经开通微信公众号
+
+![weixin.jpg](weixin.jpg)
 
 #### Todo
 - [x] 收集英文版Menhera-chan
 - [ ] 英文版Menhera-chan，清晰度比较低，需要高清的
 
 #### Note
-- If this warehouse involves infringement please contact me to delete
+- If this repository involves infringement please contact me to delete
 - Image copyright returned to the original author (that Japanese)
 
