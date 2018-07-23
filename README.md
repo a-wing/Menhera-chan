@@ -39,15 +39,18 @@ https://tieba.baidu.com/p/5635044124
 
 ##### Telegram 表情贴图
 
-https://t.me/addstickers/Menhera_chanwww
+- Japanese:
+  - https://t.me/addstickers/LINE_Menhera_chan
+  - https://t.me/addstickers/LINE_Menhera_chan_2
+  - https://t.me/addstickers/LINE_Menhera_little_girl
 
-https://t.me/addstickers/LINE_Menhera_chan
+- English:
+  - https://t.me/addstickers/LINE_Menhera_chan_ENG
+  - https://t.me/addstickers/LINE_Menhera_chan_2_ENG
+  - https://t.me/addstickers/LINE_Menhera_little_girl_ENG
 
-##### English
-https://t.me/addstickers/LINE_Menhera_chan_ENG
-
-https://t.me/addstickers/LINE_Menhera_little_girl_ENG
-
+- Others:
+  - https://t.me/addstickers/Menhera_chanwww - not work anymore
 
 #### 如果本仓库涉及侵权请联系我删除
 
