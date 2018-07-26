@@ -5,6 +5,7 @@
 >这个版本会跟随line官方进行更新
 >闲着没事，把Menhera-Chan一到五汉化了一下。汉化方法:去掉字(看不懂日文只能拿英文为底汉化，英文版字少)
 >动图是apng格式的，只有chrome和Firefox能看，可以用apng2gif转成gif，就能被QQ识别
+>使用提供的apng2gif可以将png转成gif。用法:apng2gif.exe [inputimage]
 
 `ZYFDroid` 自行用开发了一个line表情包提取器，是使用这个提取器提取的
 
