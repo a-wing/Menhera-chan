@@ -52,6 +52,7 @@ https://tieba.baidu.com/p/5635044124
 
 - Others:
   - https://t.me/addstickers/Menhera_chanwww - not work anymore
+  - https://t.me/addstickers/Menheradis -  Menhera-chan distorted
 
 #### 如果本仓库涉及侵权请联系我删除
 
