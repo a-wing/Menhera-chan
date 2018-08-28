@@ -35,8 +35,15 @@ https://tieba.baidu.com/p/5635044124
 | `Menhera-chan.4`          | メンヘラちゃん。４    |  Menhera-chan.4          | Menhera-chan.4               |
 | `Menhera-chan.5`          | メンヘラちゃん。５    |  Menhera-chan.5          | Menhera-chan.5               |
 | `Menhera-chan.6`          | メンヘラちゃん。６    |  Menhera-chan.6          | ~~Menhera-chan.6~~           |
+| `Menhera-chan 吃货少女`          | メンヘラちゃん。7    |  Menhera-chan.7          | ~~Menhera-chan.7~~           |
 | `Menhera little girl.`    | メンヘラ少女。        |  Menhera little girl.    | Menhera little girl.         |
 | `Menhera little girl. 2`  | メンヘラ少女。２      |  Menhera little girl. 2  | Menhera little girl. 2       |
+
+
+
+`本次更新吃货少女，各位吃货不要错过哦(｡･ω･｡)ﾉ♡，当然不要在大半夜看(-ω-)(闻着隔壁传来的泡面香味，然后我饿了)`
+
+由于有无文字版，就当是汉化版好了∠( ᐛ 」∠)＿
 
 ##### Telegram 表情贴图
 
