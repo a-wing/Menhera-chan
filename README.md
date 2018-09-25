@@ -36,14 +36,17 @@ https://tieba.baidu.com/p/5635044124
 | `Menhera-chan.5`          | メンヘラちゃん。５    |  Menhera-chan.5          | Menhera-chan.5               |
 | `Menhera-chan.6`          | メンヘラちゃん。６    |  Menhera-chan.6          | ~~Menhera-chan.6~~           |
 | `Menhera-chan 吃货少女`          | メンヘラちゃん。7    |  Menhera-chan.7          | ~~Menhera-chan.7~~           |
+| `Menhera-chan 秋`          | メンヘラちゃん。6    |  ~~Menhera-chan.6~~          | ~~Menhera-chan.6~~           |
 | `Menhera little girl.`    | メンヘラ少女。        |  Menhera little girl.    | Menhera little girl.         |
 | `Menhera little girl. 2`  | メンヘラ少女。２      |  Menhera little girl. 2  | Menhera little girl. 2       |
 
 
+本次更新万圣节/秋天主题
 
-`本次更新吃货少女，各位吃货不要错过哦(｡･ω･｡)ﾉ♡，当然不要在大半夜看(-ω-)(闻着隔壁传来的泡面香味，然后我饿了)`
+[其实后面更新的基本都在这里了](from_ZYFDroid/)
 
-由于有无文字版，就当是汉化版好了∠( ᐛ 」∠)＿
+>尴尬的一幕发生了，这次更出了两个MenheraChan6
+
 
 ##### Telegram 表情贴图
 
