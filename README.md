@@ -43,11 +43,7 @@ https://tieba.baidu.com/p/5635044124
 | `wallpaper`               | wallpaper             |  ~~wallpaper~~           | ~~wallpaper~~                |
 
 
-本次更新万圣节/秋天主题
-
 [其实后面更新的基本都在这里了](from_ZYFDroid/)
-
->尴尬的一幕发生了，这次更出了两个MenheraChan6
 
 
 ##### Telegram 表情贴图
