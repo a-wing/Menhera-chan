@@ -29,16 +29,18 @@ https://tieba.baidu.com/p/5635044124
 ##### 目前本仓库已有版本
 | Name                      | Japanese              | English                  | Chinese                      |
 | ------------------------- | --------------------- | ------------------------ | ---------------------------- |
-| `Menhera-chan.`           | メンヘラちゃん。      |  Menhera-chan.           | Menhera-chan.                |
-| `Menhera-chan.2`          | メンヘラちゃん。２    |  Menhera-chan.2          | Menhera-chan.2               |
-| `Menhera-chan.3`          | メンヘラちゃん。３    |  Menhera-chan.3          | Menhera-chan.3               |
-| `Menhera-chan.4`          | メンヘラちゃん。４    |  Menhera-chan.4          | Menhera-chan.4               |
-| `Menhera-chan.5`          | メンヘラちゃん。５    |  Menhera-chan.5          | Menhera-chan.5               |
-| `Menhera-chan.6`          | メンヘラちゃん。６    |  Menhera-chan.6          | ~~Menhera-chan.6~~           |
-| `Menhera-chan 吃货少女`          | メンヘラちゃん。7    |  Menhera-chan.7          | ~~Menhera-chan.7~~           |
-| `Menhera-chan 秋`          | メンヘラちゃん。6    |  Menhera-chan.6          | Menhera-chan.6          |
-| `Menhera little girl.`    | メンヘラ少女。        |  Menhera little girl.    | Menhera little girl.         |
-| `Menhera little girl. 2`  | メンヘラ少女。２      |  Menhera little girl. 2  | Menhera little girl. 2       |
+| `NanaseKonomi.1`          | メンヘラ少女。        |  Menhera little girl.    | Menhera little girl.         |
+| `NanaseKonomi.2`          | メンヘラ少女。２      |  Menhera little girl. 2  | Menhera little girl. 2       |
+| `NanaseKurumi.1`          | メンヘラちゃん。      |  Menhera-chan.           | Menhera-chan.                |
+| `NanaseKurumi.2`          | メンヘラちゃん。２    |  Menhera-chan.2          | Menhera-chan.2               |
+| `NanaseKurumi.3`          | メンヘラちゃん。３    |  Menhera-chan.3          | Menhera-chan.3               |
+| `NanaseKurumiAnim1`       | メンヘラちゃん。４    |  Menhera-chan.4          | Menhera-chan.4               |
+| `NanaseKurumi.5`          | メンヘラちゃん。５    |  Menhera-chan.summer     | Menhera-chan.5 夏            |
+| `NanaseKurumi.6`          | メンヘラちゃん。6     |  Menhera-chan.6.Halloween| Menhera-chan.6 秋/万圣节     |
+| `NanaseKurumiAnim2`       | メンヘラちゃん。6     |  Menhera-chan.6          | ~~Menhera-chan.6~~           |
+| `NanaseKurumiAnim3`       | メンヘラちゃん。7     |  Menhera-chan.7.eat      | ~~Menhera-chan.7 吃货少女~~  |
+| `NanaseKurumi_SD_4`       | メンヘラちゃん。SD_4  |  NanaseKurumi_SD_4       | ~~NanaseKurumi_SD_4~~        |
+| `wallpaper`               | wallpaper             |  ~~wallpaper~~           | ~~wallpaper~~                |
 
 
 本次更新万圣节/秋天主题
