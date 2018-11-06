@@ -50,22 +50,25 @@ https://tieba.baidu.com/p/5635044124
 >尴尬的一幕发生了，这次更出了两个MenheraChan6
 
 
-##### Telegram 表情贴图
+##### Telegram Stickers
 
 - Japanese:
   - https://t.me/addstickers/LINE_Menhera_chan
   - https://t.me/addstickers/LINE_Menhera_chan_2
   - https://t.me/addstickers/LINE_Menhera_chan_3
   - https://t.me/addstickers/LINE_Menhera_little_girl
+  - https://t.me/addstickers/LINE_Menhera_chan_SD
 
 - English:
   - https://t.me/addstickers/LINE_Menhera_chan_ENG
   - https://t.me/addstickers/LINE_Menhera_chan_2_ENG
   - https://t.me/addstickers/LINE_Menhera_chan_3_ENG
   - https://t.me/addstickers/LINE_Menhera_little_girl_ENG
+  - https://t.me/addstickers/LINE_Menhera_chan_SD_ENG
 
 - Others:
   - https://t.me/addstickers/Menheradis -  Menhera-chan distorted
+
 
 #### 如果本仓库涉及侵权请联系我删除
 
