@@ -42,6 +42,7 @@ https://tieba.baidu.com/p/5635044124
 | `NanaseKurumiAnim2`       | メンヘラちゃん。6     |  Menhera-chan.6          | ~~Menhera-chan.6~~           |
 | `NanaseKurumiAnim3`       | メンヘラちゃん。7     |  Menhera-chan.7.eat      | ~~Menhera-chan.7 吃货少女~~  |
 | `NanaseKurumi_SD_4`       | メンヘラちゃん。SD_4  |  NanaseKurumi_SD_4       | NanaseKurumi_SD_4        |
+| `Menhera-chan.Animation_4`| うごく！メンヘラちゃん。4（冬）|  Menhera-chan.Animation_4 | Menhera-chan.Animation_4 |
 | `wallpaper`               | wallpaper             |  ~~wallpaper~~           | ~~wallpaper~~                |
 
 
