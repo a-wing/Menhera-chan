@@ -1,5 +1,9 @@
 #### from ZYFDroid
 
+** [2018.12.28 #40 from_ZYFDroid/ ==> from_LineStore/](https://github.com/a-wing/Menhera-chan/commit/6af712a82b88439a2300d7d004f1297f2dedbc7a) **
+
+
+
 > 之前Menhera酱在b站开通了官方帐号(现在好像又被封了)，公布了一下关于Menhera酱的设定。
 > 其实Menhera酱是双胞胎，姐姐叫NanaseKurumi，就是一般版本上的MenheraChan，妹妹是MenheraKonomi，短发版本的，就是平时所说的MenheraLittleGirl。这里的分类就是按照名字分的
 >这个版本会跟随line官方进行更新

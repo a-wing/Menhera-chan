@@ -22,7 +22,9 @@ https://tieba.baidu.com/p/5635044124
 >
 [感谢 ZYFDroid 抓取的全部的日文版和英文版](from_LineStore/)
 
-由于ZYFDroid学业较忙，从9之后交由a_wing使用ZYFDroid提供的Line-Sticker-Downloader进行更新
+由于ZYFDroid学业较忙，从9之后交由 a_wing 使用 ZYFDroid 提供的 Line-Sticker-Downloader 进行更新
+
+[Line-Sticker-Downloader  android APP](https://github.com/ZYFDroid/Line-Sticker-Downloader/raw/master/app/build/bin/app.apk)
 
 [这个应该是网上流传的最全的版本, 共120个 from_tieba_yun_baidu/](from_tieba_yun_baidu/)
 
@@ -42,12 +44,12 @@ https://tieba.baidu.com/p/5635044124
 | `NanaseKurumiAnim2`       | メンヘラちゃん。6     |  Menhera-chan.6          | ~~Menhera-chan.6~~           |
 | `NanaseKurumiAnim3`       | メンヘラちゃん。7     |  Menhera-chan.7.eat      | ~~Menhera-chan.7 吃货少女~~  |
 | `NanaseKurumi_SD_4`       | メンヘラちゃん。SD_4  |  NanaseKurumi_SD_4       | NanaseKurumi_SD_4        |
-| `Menhera-chan.Animation_4`| うごく！メンヘラちゃん。4（冬）|  Menhera-chan.Animation_4 | Menhera-chan.Animation_4 |
-| `Menhera-chan.Animation_5`| うごく！メンヘラちゃん。５（年末年始）|  Menhera-chan.Animation_5 | Menhera-chan.Animation_5 |
+| `Menhera-chan.Animation_4`| うごく！メンヘラちゃん。4（冬）|  ~~Menhera-chan.Animation_4~~ | ~~Menhera-chan.Animation_4~~ |
+| `Menhera-chan.Animation_5`| うごく！メンヘラちゃん。５（年末年始）|  ~~Menhera-chan.Animation_5~~ | ~~Menhera-chan.Animation_5~~ |
 | `wallpaper`               | wallpaper             |  ~~wallpaper~~           | ~~wallpaper~~                |
 
 
-[其实后面更新的基本都在这里了](from_ZYFDroid/)
+[其实后面更新的基本都在这里了](from_LineStore)
 
 
 ##### Telegram Stickers
@@ -96,8 +98,7 @@ ZYFDroid评论:这估计就是作者开b站帐号和微信公众号的原因
 ![weixin.jpg](weixin.jpg)
 
 #### Todo
-- [x] 收集英文版Menhera-chan
-- [ ] 英文版Menhera-chan，清晰度比较低，需要高清的
+- [ ] 核对仓库
 
 #### Note
 - If this repository involves infringement please contact me to delete
