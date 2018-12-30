@@ -20,7 +20,9 @@ https://tieba.baidu.com/p/5635044124
 >
 > 官方只有英文版和日文版
 >
-[感谢 ZYFDroid 抓取的全部的日文版和英文版](from_ZYFDroid/)
+[感谢 ZYFDroid 抓取的全部的日文版和英文版](from_LineStore/)
+
+由于ZYFDroid学业较忙，从9之后交由a_wing使用ZYFDroid提供的Line-Sticker-Downloader进行更新
 
 [这个应该是网上流传的最全的版本, 共120个 from_tieba_yun_baidu/](from_tieba_yun_baidu/)
 
