@@ -40,12 +40,13 @@ https://tieba.baidu.com/p/5635044124
 | `NanaseKurumi.3`          | メンヘラちゃん。３    |  Menhera-chan.3          | Menhera-chan.3               |
 | `NanaseKurumiAnim1`       | メンヘラちゃん。４    |  Menhera-chan.4          | Menhera-chan.4               |
 | `NanaseKurumi.5`          | メンヘラちゃん。５    |  Menhera-chan.summer     | Menhera-chan.5 夏            |
-| `NanaseKurumi.6`          | メンヘラちゃん。6     |  Menhera-chan.6.Halloween| Menhera-chan.6 秋/万圣节     |
-| `NanaseKurumiAnim2`       | メンヘラちゃん。6     |  Menhera-chan.6          | ~~Menhera-chan.6~~           |
+| `NanaseKurumi.6`          | メンヘラちゃん。６    |  Menhera-chan.6.Halloween| Menhera-chan.6 秋/万圣节     |
+| `NanaseKurumiAnim2`       | メンヘラちゃん。６    |  Menhera-chan.6          | ~~Menhera-chan.6~~           |
 | `NanaseKurumiAnim3`       | メンヘラちゃん。7     |  Menhera-chan.7.eat      | ~~Menhera-chan.7 吃货少女~~  |
 | `NanaseKurumi_SD_4`       | メンヘラちゃん。SD_4  |  NanaseKurumi_SD_4       | NanaseKurumi_SD_4        |
-| `Menhera-chan.Animation_4`| うごく！メンヘラちゃん。4（冬）|  ~~Menhera-chan.Animation_4~~ | ~~Menhera-chan.Animation_4~~ |
+| `Menhera-chan.Animation_4`| うごく！メンヘラちゃん。４（冬）|  ~~Menhera-chan.Animation_4~~ | ~~Menhera-chan.Animation_4~~ |
 | `Menhera-chan.Animation_5`| うごく！メンヘラちゃん。５（年末年始）|  ~~Menhera-chan.Animation_5~~ | ~~Menhera-chan.Animation_5~~ |
+| `Menhera-chan.Animation_6`| うごく！メンヘラちゃん。６|  ~~Menhera-chan.Animation_6~~ | ~~Menhera-chan.Animation_6~~ |
 | `wallpaper`               | wallpaper             |  ~~wallpaper~~           | ~~wallpaper~~                |
 
 
