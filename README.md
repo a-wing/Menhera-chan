@@ -31,8 +31,8 @@ https://tieba.baidu.com/p/5635044124
 > 删除了 from_tieba 和from_telegram_asteria.s-daily 文件夹（都是重复的，留一个最好的版本就够了）
 
 ##### 目前本仓库已有版本
-| Name                      | Japanese              | English                  | Chinese                      |
-| ------------------------- | --------------------- | ------------------------ | ---------------------------- |
+| Name                      | Japanese              | English                  | Chinese                      | ID |
+| ------------------------- | --------------------- | ------------------------ | ---------------------------- | --- |
 | `NanaseKonomi.1`          | メンヘラ少女。        |  Menhera little girl.    | Menhera little girl.         |
 | `NanaseKonomi.2`          | メンヘラ少女。２      |  Menhera little girl. 2  | Menhera little girl. 2       |
 | `NanaseKurumi.1`          | メンヘラちゃん。      |  Menhera-chan.           | Menhera-chan.                |
@@ -46,8 +46,8 @@ https://tieba.baidu.com/p/5635044124
 | `NanaseKurumi_SD_4`       | メンヘラちゃん。SD_4  |  NanaseKurumi_SD_4       | NanaseKurumi_SD_4        |
 | `Menhera-chan.Animation_4`| うごく！メンヘラちゃん。４（冬）|  ~~Menhera-chan.Animation_4~~ | ~~Menhera-chan.Animation_4~~ |
 | `Menhera-chan.Animation_5`| うごく！メンヘラちゃん。５（年末年始）|  ~~Menhera-chan.Animation_5~~ | ~~Menhera-chan.Animation_5~~ |
-| `Menhera-chan.Animation_6`| うごく！メンヘラちゃん。６|  ~~Menhera-chan.Animation_6~~ | ~~Menhera-chan.Animation_6~~ |
-| `Menhera-chan.Animation_7`| うごく！メンヘラちゃん。７（春）|  ~~Menhera-chan.Animation_7~~ | ~~Menhera-chan.Animation_7~~ |
+| `Menhera-chan.Animation_6`| うごく！メンヘラちゃん。６|  ~~Menhera-chan.Animation_6~~ | ~~Menhera-chan.Animation_6~~ | 6017043 |
+| `Menhera-chan.Animation_7`| うごく！メンヘラちゃん。７（春）|  ~~Menhera-chan.Animation_7~~ | ~~Menhera-chan.Animation_7~~ | 7135848 |
 | `wallpaper`               | wallpaper             |  ~~wallpaper~~           | ~~wallpaper~~                |
 
 
