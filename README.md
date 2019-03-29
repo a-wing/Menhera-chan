@@ -47,6 +47,7 @@ https://tieba.baidu.com/p/5635044124
 | `Menhera-chan.Animation_4`| うごく！メンヘラちゃん。４（冬）|  ~~Menhera-chan.Animation_4~~ | ~~Menhera-chan.Animation_4~~ |
 | `Menhera-chan.Animation_5`| うごく！メンヘラちゃん。５（年末年始）|  ~~Menhera-chan.Animation_5~~ | ~~Menhera-chan.Animation_5~~ |
 | `Menhera-chan.Animation_6`| うごく！メンヘラちゃん。６|  ~~Menhera-chan.Animation_6~~ | ~~Menhera-chan.Animation_6~~ |
+| `Menhera-chan.Animation_7`| うごく！メンヘラちゃん。７（春）|  ~~Menhera-chan.Animation_7~~ | ~~Menhera-chan.Animation_7~~ |
 | `wallpaper`               | wallpaper             |  ~~wallpaper~~           | ~~wallpaper~~                |
 
 
