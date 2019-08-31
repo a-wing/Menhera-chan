@@ -78,11 +78,20 @@ https://tieba.baidu.com/p/5635044124
 
 图片版权归原作者吧，那家伙叫啥来着？
 
+网易云音乐：
+https://music.163.com/#/song/1322517422
+
 参照萌娘百科：
 https://zh.moegirl.org/zh/Menhera-chan
 
 作者Twitter：
 https://twitter.com/pomujoynet1
+
+Menhera chan Twitter：
+https://twitter.com/@Menhera_chan822
+
+bilibili:
+https://space.bilibili.com/326968804
 
 我就是从贴吧扒了一组图，如果本仓库涉及侵权请联系我删除
 
